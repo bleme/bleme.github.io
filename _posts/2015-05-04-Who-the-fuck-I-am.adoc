@@ -1,3 +1,20 @@
 = Who the fuck I am ?
 
-:hp-image: a-cover-image.jpg
+:hp-image: http://github.com/bleme/bleme.github.io/images/a-cover-image.jpg
+:hp-tags: Philo
+
+En voilà une putain de bonne question ! Mais qui suis-je vraiment ? Qui ne s'est jamais posé la question ? 
+
+Ce blog est une balade philosophique (et sans filtre !) durant laquelle je m'efforce d'y chercher une réponse. Sans toutefois espérer en trouver une, car au final, je m'en fout. A défaut de trouver une réponse, mon souhait et d'aider le lecteur à trouver matière à réflexion pour lui-même.
+
+
+== Pourquoi cette question ?
+Je suis entrepreneur, j'invente des solutions. Pour en trouver, j'essaye de répondre à mes propres besoins car je sais que si j'ai un besoin à satisfaire, c'est que des milliers, des millions ou des milliards d'autres personnes auront ce même besoin (et accessoirement payeront pour le satisfaire. Rassurez vous, mon but n'est pas de gagner de l'argent, j'en ai suffisamment pour ne pas empêcher ma poursuite du bonheur)
+
+== Comment y répondre ?
+
+Ou plutôt : comment vais-je tenter d'y répondre ?
+
+Premièrement, je ne vais pas y répondre. Je vais tenter d'apporter un éclairage, une réflexion sur des situations qui m'ont été rapportées ou que j'ai personnellement vécues.
+
+Il n'y a pas de "deuxièmement". Ou plutôt, celui-ci se cache dans le "premièrement".
