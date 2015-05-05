@@ -1,6 +1,5 @@
 = Who the fuck I am ?
 
-:hp-image: http://github.com/bleme/bleme.github.io/images/a-cover-image.jpg
 :hp-tags: Philo
 
 En voilà une putain de bonne question ! Mais qui suis-je vraiment ? Qui ne s'est jamais posé la question ? 
